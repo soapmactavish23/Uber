@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "576596180223",
+    "firebase_url": "https://uber-cda3a.firebaseio.com",
+    "project_id": "uber-cda3a",
+    "storage_bucket": "uber-cda3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576596180223:android:374bef0fd8d5569a33e0ca",
+        "android_client_info": {
+          "package_name": "com.example.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576596180223-h5atutiasb4pt256uri1jard3a0uk2q1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uber",
+            "certificate_hash": "05289d03081ed6ad85f4c2dcd5f0384f899d88b1"
+          }
+        },
+        {
+          "client_id": "576596180223-6of6tls1hlkkq2n9sv0qakvjsda8ds71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdtMC5LEt433qCvwdn6joq7HqiWoFij70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576596180223-6of6tls1hlkkq2n9sv0qakvjsda8ds71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
